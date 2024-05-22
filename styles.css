@@ -1,0 +1,98 @@
+ul {
+    list-style: none;
+    display: inline-flex;
+}
+
+li {
+    padding-right: 20px;
+}
+
+.bg {
+    background-color: blueviolet;
+}
+
+.logo {}
+
+.text {
+    color: black;
+    text-align: center;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg{
+    background-color:white;
+}
+.image{
+    height: 370px;
+    width: 370px;
+    display:flex;
+    justify-content:center;
+}
+
+.text3{
+    font-size: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.div{
+    height: 300px;
+    display: flex;
+}
+.sunmi{
+    text-align: right;
+    padding-right:20px ;
+}
+.sun{
+    height: 400px;
+    width: 400px;
+    display:flex;
+    justify-content:center;
+}
+.sen{
+    color: black;  
+    text-align: center;
+    font-size: 50px;
+}
+.sew{
+    height: 400px;
+    width: 400px;
+    display:flex;
+    justify-content:center
+
+}
+.div{
+    display: flex;
+    height: 600px;
+}
+.wedding{
+color: black;  
+text-align: center;
+font-size: 50px;
+}
+.div2{
+    display:flex;
+    height:600px;
+}
+.div3{
+    display:flex;
+    height:600px;
+}
+.swa{
+    color: black;  
+    text-align: center;
+    font-size: 50px;
+}
