@@ -24,21 +24,22 @@ li {
     align-items: center;
 }
 
-.bg{
-    background-color:white;
-}
-.image{
-    height: 370px;
-    width: 370px;
-    display:flex;
-    justify-content:center;
+.bg {
+    background-color: white;
 }
 
-.text3{
+.image {
+    height: 370px;
+    width: 370px;
+    display: flex;
+    justify-content: center;
+}
+
+.text3 {
     font-size: 50px;
 }
 
-h1{
+h1 {
     text-align: center;
 }
 
@@ -48,50 +49,131 @@ h1{
     align-items: center;
 }
 
-.div{
-    height: 300px;
+.div {
+    height: 500px;
     display: flex;
 }
-.sunmi{
+
+.sunmi {
     text-align: right;
-    padding-right:20px ;
+    padding-right: 20px;
 }
-.sun{
+
+.sun {
     height: 400px;
     width: 400px;
-    display:flex;
-    justify-content:center;
+    display: flex;
+    justify-content: center;
 }
-.sen{
-    color: black;  
+
+.sen {
+    color: black;
     text-align: center;
     font-size: 50px;
 }
-.sew{
+
+.sew {
     height: 400px;
     width: 400px;
-    display:flex;
-    justify-content:center
-
+    display: flex;
+    justify-content: center
 }
-.div{
+
+.div {
+    display: flex;
+    width: 400px;
+    height: 600px;
+}
+
+.wedding {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+
+.div2 {
+    display: flex;
+}
+
+.div3 {
     display: flex;
     height: 600px;
 }
-.wedding{
-color: black;  
-text-align: center;
-font-size: 50px;
-}
-.div2{
-    display:flex;
-}
-.div3{
-    display:flex;
-    height:600px;
-}
-.swa{
-    color: black;  
+
+.swa {
+    color: black;
     text-align: center;
     font-size: 50px;
+}
+
+    .div {
+        height: 50pX;
+    }
+
+    ul{
+        list-style: none;
+        display: inline-flex;
+    }
+    
+    li {
+        padding-right: 20px;
+    }
+    
+    .bg {
+        background-color: blueviolet;
+    }
+    
+    .logo {}
+    
+    .text {
+        color: black;
+        text-align: center;
+    }
+    
+    .list {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .bg {
+        background-color: white;
+    }
+
+.des{
+    width:1250px;
+    height:900px;
+
+}
+ul{
+    list-style: none;
+    display: inline-flex;
+}
+
+li {
+    padding-right: 20px;
+}
+
+.bg {
+    background-color: blueviolet;
+}
+.logo {}
+
+.text {
+    color: black;
+    text-align: center;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg {
+    background-color: white;
+}
+.bold{
+    width:1250px;
+    height:900px;  
 }
